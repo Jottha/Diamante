@@ -1,0 +1,1 @@
+A herança multipla(Problema do Diamente) no Java pode ser utiliza com a condição de se ter duas ou mais classes,cada uma implementando uma interface com as assinaturas dos metódos, e uma única classe implementando todas as interfaces.
